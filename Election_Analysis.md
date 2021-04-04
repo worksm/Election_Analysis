@@ -2,9 +2,7 @@
 ## Overview of Election Audit
   The purpose of the election audit was to deliver a comprhensive analysis of the expansive election_analysis.csv dataset. The election commitee's requested deliverables included, voter turnout by county, a percentage of votes from each county, and the county with the highest voter turnout. 
 
-## Election-Audit Results: 
-
-![Election_Analysis_PNG1.PNG]
+## Election-Audit Results:  ![Election_Analysis_PNG1.PNG(https://github.com/worksm/Election_Analysis/blob/08675bf00a4d2ec62aa8a2591aebe5f4033f9881/Resources/Election_Analysis_PNG1.png)
 
 * How many votes were cast in this congressional election? 379,711 total votes cast. 
 
