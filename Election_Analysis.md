@@ -23,6 +23,8 @@ In it's completed form, the PyPoll_Challenge.py executable proves to be a versat
 
 ![Election_Analysis_PNG3.PNG](https://github.com/worksm/Election_Analysis/blob/432ad3838303af96ebc4c2b2d100f41cc71d3622/Election_Analysis_PNG3.png)
 
-Additionally, the variables wihtin the code could easily be updated to track data points other than counties. The variables utilized in PyPoll_Challenge.py could be updated to evaluate voting districts, to provide greater insight on district voting trends. 
+Additionally, the county specific variables wihtin the code could easily be updated to track data points other than counties. The variables utilized in PyPoll_Challenge.py could be updated to evaluate voting districts, to provide greater insight on district voting trends. 
+
+![Election_Analysis_PNG2.PNG](https://github.com/worksm/Election_Analysis/blob/e710e5323d5583588e16640c076cf978f2347012/Resources/Election_Analysis_PNG2.png)
 
 
