@@ -12,7 +12,7 @@
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-![Election_Analysis_PNG1.PNG(https://github.com/worksm/Election_Analysis/blob/08675bf00a4d2ec62aa8a2591aebe5f4033f9881/Resources/Election_Analysis_PNG1.png)
+![Election_Analysis_PNG1.PNG]
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 As seen above, Diana DeGette won the election with 272,892 votes, making up 73.8% of the total vote count. 
